@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "http://127.0.0.1:8080/455/manifest.json",
+    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -23,7 +23,7 @@
     ],
     "thumbnail": [
         {
-            "id": "http://127.0.0.1:8080/455/31a7b26f6347488d0b0f8a1d881d23eb/full/300,225/0/default.heic",
+            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/31a7b26f6347488d0b0f8a1d881d23eb/full/300,225/0/default.heic",
             "type": "Image",
             "format": "image/heic",
             "height": 225,
@@ -32,7 +32,7 @@
     ],
     "items": [
         {
-            "id": "http://127.0.0.1:8080/455/canvas/1",
+            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1",
             "type": "Canvas",
             "height": 3024,
             "width": 4032,
@@ -43,7 +43,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "http://127.0.0.1:8080/455/31a7b26f6347488d0b0f8a1d881d23eb/full/300,225/0/default.heic",
+                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/31a7b26f6347488d0b0f8a1d881d23eb/full/300,225/0/default.heic",
                     "type": "Image",
                     "format": "image/heic",
                     "height": 225,
@@ -52,23 +52,23 @@
             ],
             "items": [
                 {
-                    "id": "http://127.0.0.1:8080/455/canvas/1/annopage-1",
+                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "http://127.0.0.1:8080/455/canvas/1/annopage-1/anno-1",
+                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "http://127.0.0.1:8080/455/canvas/1",
+                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1",
                             "body": {
-                                "id": "http://127.0.0.1:8080/455/31a7b26f6347488d0b0f8a1d881d23eb/full/2000,1500/0/default.heic",
+                                "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/31a7b26f6347488d0b0f8a1d881d23eb/full/2000,1500/0/default.heic",
                                 "type": "Image",
                                 "format": "image/heic",
                                 "height": 1500,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "http://127.0.0.1:8080/455/31a7b26f6347488d0b0f8a1d881d23eb",
+                                        "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/31a7b26f6347488d0b0f8a1d881d23eb",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -80,14 +80,14 @@
             ],
             "annotations": [
                 {
-                    "id": "http://127.0.0.1:8080/455/canvas/1/annopage-2",
+                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-2",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "http://127.0.0.1:8080/455/canvas/1/annopage-2/anno-1",
+                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "http://127.0.0.1:8080/455/canvas/1#xywh=786,573,692,547",
+                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1#xywh=786,573,692,547",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -99,7 +99,7 @@
             ]
         },
         {
-            "id": "http://127.0.0.1:8080/455/canvas/2",
+            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2",
             "type": "Canvas",
             "height": 2190,
             "width": 3321,
@@ -110,7 +110,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "http://127.0.0.1:8080/455/8ff479a730416a8162280ab0538d3f3c/full/300,198/0/default.png",
+                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/8ff479a730416a8162280ab0538d3f3c/full/300,198/0/default.png",
                     "type": "Image",
                     "format": "image/png",
                     "height": 198,
@@ -119,23 +119,23 @@
             ],
             "items": [
                 {
-                    "id": "http://127.0.0.1:8080/455/canvas/2/annopage-1",
+                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "http://127.0.0.1:8080/455/canvas/2/annopage-1/anno-1",
+                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "http://127.0.0.1:8080/455/canvas/2",
+                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2",
                             "body": {
-                                "id": "http://127.0.0.1:8080/455/8ff479a730416a8162280ab0538d3f3c/full/2000,1319/0/default.png",
+                                "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/8ff479a730416a8162280ab0538d3f3c/full/2000,1319/0/default.png",
                                 "type": "Image",
                                 "format": "image/png",
                                 "height": 1319,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "http://127.0.0.1:8080/455/8ff479a730416a8162280ab0538d3f3c",
+                                        "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/8ff479a730416a8162280ab0538d3f3c",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }

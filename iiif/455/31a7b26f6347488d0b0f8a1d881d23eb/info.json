@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "http://127.0.0.1:8080/455/31a7b26f6347488d0b0f8a1d881d23eb",
+  "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/31a7b26f6347488d0b0f8a1d881d23eb",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",

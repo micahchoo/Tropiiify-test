@@ -1,0 +1,30 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://127.0.0.1:8080/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "My IIIF Collection"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "http://127.0.0.1:8080/455/31a7b26f6347488d0b0f8a1d881d23eb/full/300,225/0/default.heic",
+            "type": "Image",
+            "format": "image/heic",
+            "height": 225,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "http://127.0.0.1:8080/455/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "IMG_7347"
+                ]
+            }
+        }
+    ]
+}

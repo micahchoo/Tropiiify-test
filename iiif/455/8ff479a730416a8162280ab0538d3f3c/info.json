@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/8ff479a730416a8162280ab0538d3f3c",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 256
+    }
+  ],
+  "width": 3321,
+  "height": 2190,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 198
+    },
+    {
+      "width": 2000,
+      "height": 1319
+    }
+  ]
+}

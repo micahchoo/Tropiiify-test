@@ -9,10 +9,10 @@
     },
     "thumbnail": [
         {
-            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/31a7b26f6347488d0b0f8a1d881d23eb/full/300,225/0/default.heic",
+            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/8ff479a730416a8162280ab0538d3f3c/full/300,198/0/default.png",
             "type": "Image",
-            "format": "image/heic",
-            "height": 225,
+            "format": "image/png",
+            "height": 198,
             "width": 300
         }
     ],
@@ -22,7 +22,7 @@
             "type": "Manifest",
             "label": {
                 "none": [
-                    "IMG_7347"
+                    "CNBOX"
                 ]
             }
         }

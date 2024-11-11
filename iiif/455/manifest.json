@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "none": [
-            "IMG_7347"
+            "CNBOX"
         ]
     },
     "metadata": [
@@ -21,85 +21,31 @@
             }
         }
     ],
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Provided by PGSL"
+            ]
+        }
+    },
+    "rights": "mine",
     "thumbnail": [
         {
-            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/31a7b26f6347488d0b0f8a1d881d23eb/full/300,225/0/default.heic",
+            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/8ff479a730416a8162280ab0538d3f3c/full/300,198/0/default.png",
             "type": "Image",
-            "format": "image/heic",
-            "height": 225,
+            "format": "image/png",
+            "height": 198,
             "width": 300
         }
     ],
     "items": [
         {
             "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1",
-            "type": "Canvas",
-            "height": 3024,
-            "width": 4032,
-            "label": {
-                "none": [
-                    "IMG_7347"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/31a7b26f6347488d0b0f8a1d881d23eb/full/300,225/0/default.heic",
-                    "type": "Image",
-                    "format": "image/heic",
-                    "height": 225,
-                    "width": 300
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1",
-                            "body": {
-                                "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/31a7b26f6347488d0b0f8a1d881d23eb/full/2000,1500/0/default.heic",
-                                "type": "Image",
-                                "format": "image/heic",
-                                "height": 1500,
-                                "width": 2000,
-                                "service": [
-                                    {
-                                        "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/31a7b26f6347488d0b0f8a1d881d23eb",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1#xywh=786,573,692,547",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Where does this note go?</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2",
             "type": "Canvas",
             "height": 2190,
             "width": 3321,
@@ -119,14 +65,14 @@
             ],
             "items": [
                 {
-                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2/annopage-1",
+                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2/annopage-1/anno-1",
+                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2",
+                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1",
                             "body": {
                                 "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/8ff479a730416a8162280ab0538d3f3c/full/2000,1319/0/default.png",
                                 "type": "Image",
@@ -136,6 +82,178 @@
                                 "service": [
                                     {
                                         "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/8ff479a730416a8162280ab0538d3f3c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1#xywh=1345,923,507,415",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>This is a raspberry Pi based device</p><p></p>"
+                            }
+                        },
+                        {
+                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/1#xywh=1592,1526,381,322",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Who are the subtypes of users</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2",
+            "type": "Canvas",
+            "height": 488,
+            "width": 613,
+            "label": {
+                "none": [
+                    "magnetic interface"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/972e6a10e20ebb0da8bb65d63d6520f4/full/300,239/0/default.png",
+                    "type": "Image",
+                    "format": "image/png",
+                    "height": 239,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2",
+                            "body": {
+                                "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/972e6a10e20ebb0da8bb65d63d6520f4/full/613,488/0/default.png",
+                                "type": "Image",
+                                "format": "image/png",
+                                "height": 488,
+                                "width": 613,
+                                "service": [
+                                    {
+                                        "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/972e6a10e20ebb0da8bb65d63d6520f4",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>HTML test</p><p><span class=\"line-break\"><br></span>&lt;!DOCTYPE html&gt;</p><p>&lt;html lang=\"en\"&gt;</p><p>&lt;head&gt;</p><p>    &lt;meta charset=\"UTF-8\"&gt;</p><p>    &lt;meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"&gt;</p><p>    &lt;title&gt;Pokémon Card&lt;/title&gt;</p><p>&lt;/head&gt;</p><p>&lt;body style=\"display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f2f2f2; margin: 0; font-family: Arial, sans-serif;\"&gt;</p><p>    &lt;div style=\"width: 300px; height: 450px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); background-color: #fff;\"&gt;</p><p>        </p><p>        &lt;!-- Header with Pokémon name and type --&gt;</p><p>        &lt;div style=\"padding: 10px; background-color: #f9f9f9; text-align: center;\"&gt;</p><p>            &lt;h1 style=\"font-size: 24px; margin: 0; color: #333;\"&gt;Pikachu&lt;/h1&gt;</p><p>            &lt;p style=\"font-size: 16px; color: #666; margin: 5px 0;\"&gt;Electric Type&lt;/p&gt;</p><p>        &lt;/div&gt;</p><p>        </p><p>        &lt;!-- Image of the Pokémon --&gt;</p><p>        &lt;div style=\"width: 100%; display: flex; justify-content: center; margin: 20px 0;\"&gt;</p><p>            &lt;img src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png\" alt=\"Pikachu\" style=\"width: 150px; height: auto;\"&gt;</p><p>        &lt;/div&gt;</p><p>        </p><p>        &lt;!-- Pokémon Description --&gt;</p><p>        &lt;div style=\"padding: 15px;\"&gt;</p><p>            &lt;h2 style=\"font-size: 18px; margin: 0 0 10px 0; color: #333;\"&gt;Description&lt;/h2&gt;</p><p>            &lt;p style=\"font-size: 14px; color: #666; line-height: 1.5;\"&gt;</p><p>                Pikachu, an Electric-type Pokémon, is known for its ability to store electricity in its cheeks. It’s a favorite among trainers due to its loyalty and playful personality.</p><p>            &lt;/p&gt;</p><p>        &lt;/div&gt;</p><p>        </p><p>        &lt;!-- Pokémon Stats --&gt;</p><p>        &lt;div style=\"padding: 15px; background-color: #f9f9f9;\"&gt;</p><p>            &lt;h3 style=\"font-size: 16px; margin: 0 0 10px 0; color: #333;\"&gt;Stats&lt;/h3&gt;</p><p>            &lt;ul style=\"list-style: none; padding: 0; margin: 0;\"&gt;</p><p>                &lt;li style=\"font-size: 14px; color: #333;\"&gt;HP: 35&lt;/li&gt;</p><p>                &lt;li style=\"font-size: 14px; color: #333;\"&gt;Attack: 55&lt;/li&gt;</p><p>                &lt;li style=\"font-size: 14px; color: #333;\"&gt;Defense: 40&lt;/li&gt;</p><p>                &lt;li style=\"font-size: 14px; color: #333;\"&gt;Speed: 90&lt;/li&gt;</p><p>            &lt;/ul&gt;</p><p>        &lt;/div&gt;</p><p>        </p><p>    &lt;/div&gt;</p><p>&lt;/body&gt;</p><p>&lt;/html&gt;</p><p></p>"
+                            }
+                        },
+                        {
+                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2#xywh=42,10,508,64",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Tropy was used to flip the image, change the contrast and saturation</p><blockquote><p>Types of Formatting test</p><p><span style=\"text-decoration: overline\"><sup>adssdasd</sup>&nbsp;<a href=\"https://iiif.io/api/content-state/1.0/#export\">https://iiif.io/api/content-state/1.0/#export</a></span></p><p><span style=\"text-decoration: overline\"><span style=\"text-decoration: line-through\">asdasd</span></span></p></blockquote>"
+                            }
+                        },
+                        {
+                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/2#xywh=263,273,280,200",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": {
+                                    "x": 263,
+                                    "y": 273,
+                                    "width": 280,
+                                    "height": 200
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/3",
+            "type": "Canvas",
+            "height": 800,
+            "width": 1200,
+            "label": {
+                "none": [
+                    "pjimage_20-1399882208"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/301d027ad052d694c6739ddfcec9bf18/full/300,200/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 200,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://micahchoo.github.io/Tropiiify-test/iiif/455/canvas/3",
+                            "body": {
+                                "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/301d027ad052d694c6739ddfcec9bf18/full/1200,800/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 800,
+                                "width": 1200,
+                                "service": [
+                                    {
+                                        "id": "https://micahchoo.github.io/Tropiiify-test/iiif/455/301d027ad052d694c6739ddfcec9bf18",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }

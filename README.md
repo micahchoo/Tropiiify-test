@@ -1,4 +1,8 @@
 Annotation works
+- in mirador, Theseus, Clover and Annona
+- none show the HTML annotation. Theseus is in a loading loop
+
+Image transformation tools from inside tropy don't reflect
 
 Before exporting in Tropiiify
 - give identifiers to all the items and selections
